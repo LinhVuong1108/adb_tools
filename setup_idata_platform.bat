@@ -14,9 +14,9 @@
                 set packages_name_JT_cu_2=cn.yssoft.philippines
                 set packages_name_JT_moi=com.jt.express.vietnam.outfield
             rem pass wifi J&T Expreess Office
-                set pass_wifi_jt_expreess_office="Jtexpress2024!@#++"
+                set pass_wifi_jt_expreess_office="Jtexpress2025!@#++"
             rem pass wifi J&T Expreess Guest
-                set pass_wifi_JT_Expreess_Guest="Jtexpress@2024++$"
+                set pass_wifi_JT_Expreess_Guest="Jtexpress@2025++--"
     rem =======================================================================================================================
         FOR %%a IN (%duong_dan_app_ban_cu%) DO SET JTSprinter_version_cu=%%~na
         FOR %%a IN (%duong_dan_app_ban_moi%) DO SET JTSprinter_version_new=%%~na
