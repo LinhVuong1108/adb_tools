@@ -9,7 +9,7 @@
                 ::set duong_dan_app_ban_cu=D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.155.apk
                 ::set duong_dan_app_ban_moi=D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.157.apk
                 set duong_dan_app_ban_cu=%1
-		            set duong_dan_app_ban_moi=%2
+		set duong_dan_app_ban_moi=%2
                 set packages_name_JT_cu_1=cn.yssoft.vietnam
                 set packages_name_JT_cu_2=cn.yssoft.philippines
                 set packages_name_JT_moi=com.jt.express.vietnam.outfield
